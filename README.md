@@ -18,17 +18,6 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a love for a
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
 
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">- 🌱 I’m currently enhancing my skills in cloud architecture and orchestration.<br>- 👯 I’m looking to collaborate on open-source projects and DevOps initiatives.<br>- 💬 Ask me about Docker, Kubernetes, CI/CD pipelines, and cloud services.<br>- ⚡ Fun fact: I'm a tech enthusiast and love to explore new technologies.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"/>
   <img width="12" />
@@ -75,7 +64,7 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a love for a
 
 ###
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
+![Visitor Count](https://komarev.com/ghpvc/?username=Moh4medNajjar&color=brightgreen)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Moh4medNajjar&show_icons=true&theme=radical" alt="your-github-username's GitHub stats" />
